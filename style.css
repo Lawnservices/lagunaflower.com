@@ -1,6 +1,9 @@
 body{
   padding: 0;
   margin: 0;
+  background-image: url(https://lagunalawnservice.com/img/galeria12.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .mensaje{
   margin-top: 160px;
