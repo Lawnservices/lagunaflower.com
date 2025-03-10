@@ -11,12 +11,12 @@ body{
   height: 400px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #fff;
+  background: linear-gradient(90deg,blue 1.47%, green 88.47%);
   border-radius: 0.4rem;
 }
 .mensaje p{
   margin-top: 10px;
-  color: #003366;
+  color: #fff;
   text-align: center;
   padding: 20px 20px;
   font-size: 60px;
